@@ -1,0 +1,35 @@
+
+body,html{
+width: 100%;
+height: 100%;
+font-family:sans-serif;
+background-image: url(wall.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center ;
+}
+h1{
+color: whitesmoke;
+}
+.btn{
+text-transform: uppercase;
+border-radius: 200px;
+font-weight: 600px;
+}
+.buffer{
+height: 180px;
+}
+
+.btn-danger{
+background-color: #C1000A;
+border-color: #C1000A;
+}
+.btn-danger:hover
+{
+background-color: #B40B13;
+border-color: #B40B13;
+}
+
+.btn-xl{
+padding: 0.5rem 0.5rem;
+}
